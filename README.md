@@ -9,12 +9,12 @@ jx13xx/jx13xx is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes. -->
 
 
-<!-- [![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jx13xx](https://github.com/jx13xx/github-readme-stats) -->
-
+<div style="display:flex;">
 ![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jx13xx&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaAdigopula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaAdigopula])(https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaAdigopula)](https://github.com/jx13xx/github-readme-stats) -->
+</div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaAdigopula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
