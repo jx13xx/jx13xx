@@ -4,7 +4,7 @@ I'm Full Stack Developer, currently based in Dubai, UAE. I have been working in 
 
 
 <a href="https://github.com/jx13xx">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaAdigopula&hide=html,css&" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jx13xx&hide=html,css&" />
 </a>
 
 <a href="https://github.com/jx13xx">
