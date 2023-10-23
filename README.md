@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Full Stack Developer, currently based in Dubai, UAE. I have been working in software industry since 2014, largely for product based companies. I love to learn new technologies and adopt them for implmenting or enhancing enterprise level applications.
+I'm Full Stack Developer I have been working in software industry since 2014, largely for product based companies. I love to learn new technologies and adopt them for implmenting or enhancing enterprise level applications.
 
 
 <a href="https://github.com/jx13xx">
